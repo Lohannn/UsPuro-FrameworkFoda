@@ -5,6 +5,7 @@ main{
     height: 100vh;
     width: 100vw;
     font-family: 'Quicksand', sans-serif;
+    background-color: #79BBE6;
 }
 
 .container-UsPuro{
@@ -54,6 +55,7 @@ main{
 
 .botao-login{
     border-radius: 5px;
+
     background: linear-gradient(90deg, #A2E3FF 26.56%, #00B2FF 100%);
     height: 52px;
     width: 300px;
@@ -61,12 +63,9 @@ main{
     font-size: 24px;
     line-height: 30px;
     cursor: pointer;
-    transition: all .5s;
 }
 
-.botao-login:hover{
-    background: rgb(0, 162, 255);
-}
+
 
 .container-cadastro{
     display: flex;
