@@ -21,8 +21,8 @@ main{
 }
 
 .UsPuro-title{
-    margin-top: 10.672358591248665vh;
-    margin-bottom: 10.672358591248665vh;
+    margin-top: 100px;
+    margin-bottom: 100px;
     font-size: 4rem;
     font-weight: 400;
     cursor: default;
@@ -74,7 +74,7 @@ main{
     gap: 5px;
     font-size: 1.25rem;
     font-weight: 400;
-    margin-top: 8.110992529348986vh;
+    margin-top: 76px;
 }
 
 .link-cadastro{
